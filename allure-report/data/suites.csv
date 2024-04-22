@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 22 16:23:58 ACST 2024","Mon Apr 22 16:24:00 ACST 2024","1425","loginsetup","Authentication.spec.ts","","","","Login and store user auth",""
+"passed","Mon Apr 22 16:24:04 ACST 2024","Mon Apr 22 16:24:14 ACST 2024","10344","chromium","ContactListFinalTest.spec.ts","ContactListFinalTest","","","Delete a new contact",""
+"passed","Mon Apr 22 16:24:04 ACST 2024","Mon Apr 22 16:24:12 ACST 2024","8047","chromium","ContactListFinalTest.spec.ts","ContactListFinalTest","","","Verify the New contact has been added successfully",""
+"passed","Mon Apr 22 16:24:04 ACST 2024","Mon Apr 22 16:24:18 ACST 2024","14522","chromium","ContactListFinalTest.spec.ts","ContactListFinalTest","","","Edit a new contact",""
